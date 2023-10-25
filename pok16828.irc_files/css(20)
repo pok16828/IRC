@@ -1,6 +1,0 @@
-@font-face {
-  font-family: 'Rye';
-  font-style: normal;
-  font-weight: 400;
-  src: url(https://fonts.gstatic.com/l/font?kit=r05XGLJT86YDE5TqXOub4WBAMg&skey=18b6854fa95116ab&v=v15) format('woff2');
-}

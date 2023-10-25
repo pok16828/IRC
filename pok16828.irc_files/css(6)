@@ -1,6 +1,0 @@
-@font-face {
-  font-family: 'Anton';
-  font-style: normal;
-  font-weight: 400;
-  src: url(https://fonts.gstatic.com/l/font?kit=1Ptgg87LROyAm0Kx8iggSpNrRJ7xsQ&skey=3e16a04254d4c9b3&v=v25) format('woff2');
-}

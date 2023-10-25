@@ -1,6 +1,0 @@
-@font-face {
-  font-family: 'Gamja Flower';
-  font-style: normal;
-  font-weight: 400;
-  src: url(https://fonts.gstatic.com/l/font?kit=6NUR8FiKJg-Pa0rM6uN40Z4kzP9Ddt2ccUBYsQnEB54q1SBB&skey=a4227ed69d6a2f43&v=v22) format('woff2');
-}

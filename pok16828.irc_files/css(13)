@@ -1,6 +1,0 @@
-@font-face {
-  font-family: 'Fira Code';
-  font-style: normal;
-  font-weight: 400;
-  src: url(https://fonts.gstatic.com/l/font?kit=uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sFVLxN87huj02IboMjVjDhb_-xQ&skey=33bc0af28fd31bc7&v=v22) format('woff2');
-}

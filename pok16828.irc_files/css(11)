@@ -1,6 +1,0 @@
-@font-face {
-  font-family: 'Dancing Script';
-  font-style: normal;
-  font-weight: 400;
-  src: url(https://fonts.gstatic.com/l/font?kit=If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSoHSOB9ptHip3ZFlP8BOpkYKI0O6QU&skey=c89f400061e5d0a8&v=v25) format('woff2');
-}

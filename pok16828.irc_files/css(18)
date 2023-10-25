@@ -1,6 +1,0 @@
-@font-face {
-  font-family: 'Redacted Script';
-  font-style: normal;
-  font-weight: 400;
-  src: url(https://fonts.gstatic.com/l/font?kit=ypvBbXGRglhokR7dcC3d1-R6zmxStGT3kZgB9JgXwDCKJP1HBPIt&skey=34fe666de91ebf8b&v=v10) format('woff2');
-}
