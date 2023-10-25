@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Fredericka the Great';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/l/font?kit=9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV-9Shz7AlczeGTBvhdAbdOgBXm93P&skey=e76684586970fdda&v=v21) format('woff2');
+}

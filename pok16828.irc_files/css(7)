@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Ballet';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/l/font?kit=QGYyz_MYZA-HM4NjuGOVnUEXme1I4Xi3C4S-EiAps6bvJmOrJawq&skey=337484c2e90d4a48&v=v27) format('woff2');
+}

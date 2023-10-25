@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/l/font?kit=S6u8w4BMUTPHjxswXiWtFCfa6ZFUgYA&skey=51512958f8cff7a8&v=v24) format('woff2');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/l/font?kit=S6uyw4BMUTPHvxw6WQevLiOkjLJB&skey=2d58b92a99e1c086&v=v24) format('woff2');
+}

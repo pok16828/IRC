@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Rubik Glitch';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/l/font?kit=qkBSXv8b_srFRYQVYrDKh9ZvnS7BONm4H0kIHdS8cmD7nqIB&skey=ecb75c86d357b885&v=v2) format('woff2');
+}

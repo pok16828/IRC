@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/l/font?kit=SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7e8QI9_WamXgHlIZPfzmkzqICMgHwif&skey=b76c0cb3db3b0fac&v=v27) format('woff2');
+}
+@font-face {
+  font-family: 'EB Garamond';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/l/font?kit=SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RUBoV-e62PgVtDdr-Wn2jJLCkiAw&skey=fde9b303600e495b&v=v27) format('woff2');
+}

@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Balsamiq Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/l/font?kit=P5sazZiAbNrN8SB3lQQX7PncwdsXIKVODzr2VyNiOtVY8Hg5S88&skey=723ae8380a1af90c&v=v14) format('woff2');
+}
+@font-face {
+  font-family: 'Balsamiq Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/l/font?kit=P5sEzZiAbNrN8SB3lQQX7Pnc8dwdJ4dMNTDkH1BBANhc8mQk&skey=aba016cf33110df9&v=v14) format('woff2');
+}

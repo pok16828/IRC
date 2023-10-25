@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/l/font?kit=nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTbtPK-F2qC0umGYitJ_qCDiFo2c_f&skey=f57a6d1e6bccdd9c&v=v36) format('woff2');
+}
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/l/font?kit=nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDVZNLo_EWrKUG0VviIEfKIFz9r0g&skey=f3b68f0152604ed9&v=v36) format('woff2');
+}
